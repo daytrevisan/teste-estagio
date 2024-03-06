@@ -40,9 +40,7 @@ f) 200
 <hr>
 
 #### Questão 4
-Como podemos manusear o interruptor diversas vezes, porém executar apenas duas idas às salas
-Podemos distinguir os interruptores através do calor das lâmpadas
-Para isso, vamos efetuar os seguintes passos:
+Como podemos manusear o interruptor diversas vezes, porém executar apenas duas idas às salas. Podemos distinguir os interruptores através do calor das lâmpadas. Para isso, vamos efetuar os seguintes passos:
 
 1. Ligar o primeiro interruptor, aguardar alguns minutos para que a lâmpada se aqueça;
 2. Desligar o primeiro interruptor e ligar o segundo interruptor;
