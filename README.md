@@ -51,6 +51,7 @@ Nessas duas idas, podemos observar que:
 - A lâmpada poderá estar apagada e fria;
 - A lâmpada poderá estar apagada e quente.
 
+E então concluímos que:
 - Caso a lâmpada esteja acesa, o interruptor refere-se ao número 2, pois este ficou ligado;
 - Caso a lâmpada esteja apagada e quente, o interruptor refere-se ao número 1, pois esteve ligada por um tempo;
 - Caso a lâmpada esteja apagada e fria, o interruptor refere-se ao número 3, pois este não foi acionado e a lâmpada não foi ligada naquele período.
